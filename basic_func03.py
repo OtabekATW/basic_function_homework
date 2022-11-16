@@ -1,4 +1,4 @@
 # Create a function called main.
 def  main():
-    return 'odeschool'
+    return 'codeschool'
 # Return the value "codeschooluz"
